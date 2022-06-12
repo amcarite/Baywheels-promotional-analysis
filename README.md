@@ -292,7 +292,7 @@ where
 
 ## My full analysis will be done in the following jupyter notebook:
 
-[Jupyter Notebook](https://github.com/mids-w205-chakraverty/project-1-amcarite/blob/assignment/Project_1.ipynb)
+[Jupyter Notebook](baywheels_analysis.ipynb)
 
 
 
